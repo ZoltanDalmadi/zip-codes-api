@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  micro-phonebook-api:
+  zip-codes-api:
     image: zip-codes-api
     container_name: zip-codes-api
     build: .
