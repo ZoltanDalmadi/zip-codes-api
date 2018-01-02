@@ -1,0 +1,14 @@
+node_modules/
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.db
+*.swp
+pids
+*.pid
+*.seed
+*.pid.lock
+.npm
+.node_repl_history
